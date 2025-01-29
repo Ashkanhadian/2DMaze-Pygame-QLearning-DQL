@@ -1,2 +1,2 @@
 # 2DMaze-Pygame-QLearning-DQL
-A comprehensive project for 2D maze solving using Pygame, Markov Decision Processes (MDP), Q-Learning, and Deep Q-Learning. Includes comparison files to evaluate the performance of each technique.
+A 2D maze solving project in Pygame. Includes Implementations of Markov Decision Processes (MDP), Q-Learning, and Deep Q-Learning and comparison files to evaluate the performance of each technique.
